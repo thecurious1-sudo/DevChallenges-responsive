@@ -1,2 +1,7 @@
 This is my solution for 2nd DevChallenge 'My Team page'
-https://lucent-bonbon-257e7d.netlify.app/
+
+https://devchsoln21.netlify.app/
+
+![Laptop Version](screenshots/laptop.png)
+
+![Mobile Version](screenshots/phone.png)
